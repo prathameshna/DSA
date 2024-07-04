@@ -1,0 +1,1 @@
+{"name":"Local: operation_array","url":"c:\\Users\\Prath\\Desktop\\DSA\\DSA\\operation_array.cpp","tests":[{"id":1720058385433,"input":"5 12 12 12 2  25 ","output":"ara"},{"id":1720058467691,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Prath\\Desktop\\DSA\\DSA\\operation_array.cpp","group":"local","local":true}
