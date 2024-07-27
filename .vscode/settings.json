@@ -3,6 +3,8 @@
         "ostream": "cpp",
         "iostream": "cpp",
         "algorithm": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp"
     }
 }
